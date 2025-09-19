@@ -35,7 +35,8 @@ where \(E\) is a singular deviation matrix and \(t\) is a complex parameter.
 The theory opens several directions for further exploration:
 - Application of HD-based analysis to large-scale numerical linear algebra.  
 - Extension of HD concepts to other iterative methods and nonlinear eigenvalue problems.  
-- Use of **visual homotopic portraits** as diagnostic tools in numerical stability studies.  
+- Use of **visual homotopic portraits** as diagnostic tools in numerical stability studies.
+- Apply HD to practical engineering problems, including examples from acoustics and civil engineering.
 
 ---
 
