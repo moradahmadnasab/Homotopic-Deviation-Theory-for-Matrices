@@ -57,6 +57,24 @@ The theory opens several directions for further exploration:
   <img src="Pictures/fig_6_4.png" width="600" alt="Mesh of orbits">
 </p>
 
+<p align="center">
+  <img src="Pictures/fig_6_5.png" width="600" alt="Convergence and divergence of rays as \[ |t| \to \infty ">
+</p>
+
+<p align="center">
+  <img src="Pictures/fig_6_6.png" width="600" alt="Mesh of orbits">
+</p>
+
+<p align="center">
+  <img src="Pictures/fig_6_7.png" width="600" alt="Mesh of orbits">
+</p>
+
+
+
+
+
+
+
 
 
 ---
