@@ -42,7 +42,7 @@ The theory opens several directions for further exploration:
 
 ## 📊 Figures
 <p align="center">
-  <img src="figures/fig1.png" width="800" alt="Stability Improvements">
+  <img src="figures/fig_6_1.png" width="800" alt="Spectral ray for different value of \[ \theta \]">
 </p>
 
 <p align="center">
