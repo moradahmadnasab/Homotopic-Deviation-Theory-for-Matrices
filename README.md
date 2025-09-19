@@ -50,8 +50,14 @@ The theory opens several directions for further exploration:
 </p>
 
 <p align="center">
-  <img src="figures/fig2.png" width="600" alt="Performance vs. Problem Size">
+  <img src="Pictures/fig_6_3.png" width="600" alt="Mesh of rays for 10 values of θ">
 </p>
+
+<p align="center">
+  <img src="Pictures/fig_6_4.png" width="600" alt="Mesh of orbits">
+</p>
+
+
 
 ---
 
