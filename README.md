@@ -26,7 +26,6 @@ where \(E\) is a singular deviation matrix and \(t\) is a complex parameter.
 - First complete account of HD theory, with rigorous definitions of **homotopic spectra** and their singular structures.  
 - Introduction of **frontier** and **critical points** as new algebraic singularities in matrix perturbations.  
 - Development of **homotopic backward error measures**, enhancing stability analysis in finite precision computations.  
-- Proposal of **symmetrizing strategies** to improve both theoretical robustness and numerical performance.  
 - Creation of **visualization tools** that provide qualitative insight into spectral and resolvent behavior, including **homotopic portraits** and **meshes**.  
 - Application of HD ideas to **Arnoldi’s method**, showing potential for improved eigenvalue solvers.  
 
