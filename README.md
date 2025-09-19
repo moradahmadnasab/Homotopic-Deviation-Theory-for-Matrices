@@ -40,8 +40,3 @@ The theory opens several directions for further exploration:
 
 ---
 
-## 📂 Repository Contents
-- **/figures** — Selected visualizations of spectral orbits, meshes, and portraits.  
-- **/theory** — Summaries of theoretical developments and definitions.  
-- **/experiments** — Numerical examples demonstrating stability and structure.  
-- **/code** — MATLAB functions implementing parts of the theory.  
