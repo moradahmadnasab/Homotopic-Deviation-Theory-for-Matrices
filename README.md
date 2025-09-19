@@ -42,15 +42,15 @@ The theory opens several directions for further exploration:
 
 ## 📊 Figures
 <p align="center">
-  <img src="Pictures/fig_6_1.png" width="800" alt="Spectral ray for different value of \[ \theta \]">
+  <img src="Pictures/fig_6_1.png" width="600" alt="Spectral ray for different value of \[ \theta \]">
 </p>
 
 <p align="center">
-  <img src="Pictures/fig_6_2.png" width="800" alt="Spectral orbit for the values of \[ |t | \]">
+  <img src="Pictures/fig_6_2.png" width="600" alt="Spectral orbit for the values of \[ |t | \]">
 </p>
 
 <p align="center">
-  <img src="figures/fig2.png" width="800" alt="Performance vs. Problem Size">
+  <img src="figures/fig2.png" width="600" alt="Performance vs. Problem Size">
 </p>
 
 ---
