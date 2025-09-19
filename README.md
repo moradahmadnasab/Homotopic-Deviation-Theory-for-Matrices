@@ -40,3 +40,20 @@ The theory opens several directions for further exploration:
 
 ---
 
+## 📊 Figures
+<p align="center">
+  <img src="figures/fig1.png" width="800" alt="Stability Improvements">
+</p>
+
+<p align="center">
+  <img src="figures/fig3.png" width="800" alt="Competitive Performances">
+</p>
+
+<p align="center">
+  <img src="figures/fig2.png" width="800" alt="Performance vs. Problem Size">
+</p>
+
+---
+
+## 📄 Reference
+If you use or refer to this work, please cite: M. Ahmadnasab, Symmetric-diagonal reductions as preprocessing for symmetric positive definite generalized eigenvalue solvers, Journal of Mathematical Modeling, 11 (2023) 301-322. 
