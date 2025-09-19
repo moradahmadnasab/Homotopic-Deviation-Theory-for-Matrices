@@ -62,7 +62,7 @@ The theory opens several directions for further exploration:
 </p>
 
 <p align="center">
-  <img src="Pictures/fig_6_6.png" width="600" alt="Mesh of orbits">
+  <img src="Pictures/fig_7_8.png" width="600" alt="Spectral portrait of \[ M_z \]">
 </p>
 
 <p align="center">
