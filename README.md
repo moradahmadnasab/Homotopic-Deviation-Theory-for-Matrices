@@ -46,7 +46,7 @@ The theory opens several directions for further exploration:
 </p>
 
 <p align="center">
-  <img src="figures/fig3.png" width="800" alt="Competitive Performances">
+  <img src="Pictures/fig_6_2.png" width="800" alt="Spectral orbit for the values of \[ |t | \]">
 </p>
 
 <p align="center">
