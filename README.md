@@ -66,7 +66,7 @@ The theory opens several directions for further exploration:
 </p>
 
 <p align="center">
-  <img src="Pictures/fig_6_7.png" width="600" alt="Mesh of orbits">
+  <img src="Pictures/fig_7_9.png" width="600" alt="Frontier portrait">
 </p>
 
 
