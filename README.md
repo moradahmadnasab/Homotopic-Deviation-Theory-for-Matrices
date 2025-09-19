@@ -4,7 +4,7 @@ A framework for studying spectral properties of matrix couplings, introducing ne
 
 # Homotopic Deviation theory: A qualitative study
 
-This repository presents results from my PhD thesis (2004–2008), which developed a comprehensive **Homotopic Deviation (HD) theory** for matrix perturbations of the form:
+This repository presents results from a long research projrct, which developed a comprehensive **Homotopic Deviation (HD) theory** as a very useful extension of matrix linear perturbations of the form:
 
 \[
 A(t) = A + tE,
