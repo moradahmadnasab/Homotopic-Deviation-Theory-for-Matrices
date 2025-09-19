@@ -80,4 +80,6 @@ The theory opens several directions for further exploration:
 ---
 
 ## 📄 Reference
-If you use or refer to this work, please cite: M. Ahmadnasab, Symmetric-diagonal reductions as preprocessing for symmetric positive definite generalized eigenvalue solvers, Journal of Mathematical Modeling, 11 (2023) 301-322. 
+If you use or refer to this work, please cite: Morad Ahmadnasab, Homotopic deviation theory: a qualitative study [PhD thesis]. Universite
+Toulouse I and CERFACS, TH/PA/07/120,  Toulouse, France. 
+ https://cerfacs.fr/wp-content/uploads/2016/02/TH_PA_07_120_AHMADNASAB-1.pdf
